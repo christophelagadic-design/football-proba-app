@@ -29,7 +29,7 @@ COMPETITIONS_FALLBACK = {
     "Primeira Liga": "PPL",
     "Championship": "ELC",
     "Euro": "EC",
-    "World Cup": "WC",
+    "World Cup": "CUP",
 }
 
 def safe_float(x):
